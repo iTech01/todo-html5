@@ -4,7 +4,7 @@
 - `HTML`
 - `CSS`
 - `Javascript`
-##Preview:
+## Preview:
 <p>
   <img src="https://i.imgur.com/7AJk02C.png" alt="todo-list"/>
 </p>
